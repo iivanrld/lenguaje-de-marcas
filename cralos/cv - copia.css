@@ -1,0 +1,98 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #aed6f1;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  }
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+}
+  
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    outline: none;
+}
+
+nav a:hover {
+  text-decoration: underline; 
+}
+
+a {
+  color: inherit;
+}
+
+section a {
+  color: #3498db;
+}
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.profile-picture {
+    max-width: 200px; 
+    margin: 0 auto 20px;
+}
+
+  .profile-picture img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%; 
+    display: block;
+}
+
+header {
+  background-color: #3498db; 
+  color: #fff;
+  text-align: center;
+  padding: 30px 0;
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f4f4f4; 
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li::before {
+  content: "\2022"; 
+  color: #aed6f1; 
+  display: inline-block;
+}
