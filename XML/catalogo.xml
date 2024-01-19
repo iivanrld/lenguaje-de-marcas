@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+ <libro id="1">
+    <titulo>La divina comedia</titulo>
+    <autor>Dante Alighieri</autor>
+    <genero>Poesía</genero>
+    <anio>1321</anio>
+    <idioma>Italiano</idioma>
+ </libro>
+ <libro id="2">
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <genero>Novela</genero>
+    <anio>1605</anio>
+    <idioma>Español</idioma>
+ </libro>
+ <libro id="3">
+    <titulo>Porqué creemos en mierdas?</titulo>
+    <autor>Ramon Nogueras</autor>
+    <genero>Ensayo</genero>
+    <anio>2002</anio>
+    <idioma>Español</idioma>
+ </libro>
+ <libro id="4">
+    <titulo>Mas allá de la libertad y la dignidad</titulo>
+    <autor>Frederic Skinner</autor>
+    <genero>Filosofía</genero>
+    <anio>1971</anio>
+    <idioma>Inglés</idioma>
+ </libro>
+</biblioteca>
