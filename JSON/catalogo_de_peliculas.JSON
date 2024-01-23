@@ -1,0 +1,36 @@
+{
+    "catalogoPeliculas": [
+        {
+            "titulo": "The Godfather",
+            "director": "Francis Ford Coppola",
+            "genero": "Drama, Crime",
+            "año": 1972,
+            "sinopsis": "El anciano patriarca de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su reacio hijo.",
+            "clasificación": "R"
+        },
+        {
+            "titulo": "Pulp Fiction",
+            "director": "Quentin Tarantino",
+            "genero": "Crime, Drama",
+            "año": 1994,
+            "sinopsis": "Las vidas de dos sicarios de la mafia, un boxeador, la esposa de un gángster y un par de bandidos de un restaurante se entrelazan en cuatro historias de violencia y redención. Las vidas de dos sicarios de la mafia, un boxeador, la esposa de un gángster y un par de Los bandidos se entrelazan en cuatro historias de violencia y redención.",
+            "clasificación": "R"
+        },
+        {
+            "titulo": "Inception",
+            "director": "Christopher Nolan",
+            "genero": "Action, Adventure, Sci-Fi",
+            "año": 2010,
+            "sinopsis": "A un ladrón que roba secretos corporativos mediante el uso de tecnología para compartir sueños se le asigna la tarea inversa de plantar una idea en la mente de un director ejecutivo.",
+            "clasificación": "PG-13"
+        },
+        {
+            "titulo": "Fight Club",
+            "director": "David Fincher",
+            "genero": "Drama",
+            "año": 1999,
+            "sinopsis": "Un oficinista insomne ​​y un fabricante de jabón despreocupado forman un club de lucha clandestino que evoluciona hasta convertirse en algo mucho, mucho más.",
+            "clasificación": "R"
+        }
+    ]
+}
