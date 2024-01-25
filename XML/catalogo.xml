@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
+<!--este es un ejemplo de comentario-->
  <libro id="1">
     <titulo>La divina comedia</titulo>
     <autor>Dante Alighieri</autor>
