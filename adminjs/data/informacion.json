@@ -1,0 +1,553 @@
+{
+    "2021": {
+      "Q1": [
+        {
+            "nombre": "Carlos",
+            "apellidos": "Martínez",
+            "telefono": "555555555",
+            "direccion": {
+              "calle": "Calle del Medio 789",
+              "ciudad": "Ciudad C",
+              "codigo_postal": "67890",
+              "provincia": "Provincia Z"
+            },
+            "correo_electronico": "carlos@example.com",
+            "fecha_inclusion": "2021-04-03",
+            "pedidos": [
+              {
+                "numero_pedido": "PED125",
+                "fecha_compra": "2021-04-05",
+                "fecha_entrega": "2021-04-10",
+                "total_factura": 80.20,
+                "productos": [
+                  {
+                    "nombre_producto": "Gafas de Sol",
+                    "referencia": "GAF005",
+                    "precio": 30.00,
+                    "unidades": 1
+                  },
+                  {
+                    "nombre_producto": "Sombrero",
+                    "referencia": "SOM006",
+                    "precio": 50.00,
+                    "unidades": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nombre": "Ana",
+            "apellidos": "López",
+            "telefono": "999999999",
+            "direccion": {
+              "calle": "Paseo de la Montaña 321",
+              "ciudad": "Ciudad D",
+              "codigo_postal": "54321",
+              "provincia": "Provincia Y"
+            },
+            "correo_electronico": "ana@example.com",
+            "fecha_inclusion": "2021-04-10",
+            "pedidos": [
+              {
+                "numero_pedido": "PED126",
+                "fecha_compra": "2021-04-15",
+                "fecha_entrega": "2021-04-20",
+                "total_factura": 200.00,
+                "productos": [
+                  {
+                    "nombre_producto": "Vestido",
+                    "referencia": "VES007",
+                    "precio": 100.00,
+                    "unidades": 2
+                  }
+                ]
+              }
+            ]
+          }
+      ],
+      "Q2": [
+        {
+          "nombre": "Carlos",
+          "apellidos": "Martínez",
+          "telefono": "555555555",
+          "direccion": {
+            "calle": "Calle del Medio 789",
+            "ciudad": "Ciudad C",
+            "codigo_postal": "67890",
+            "provincia": "Provincia Z"
+          },
+          "correo_electronico": "carlos@example.com",
+          "fecha_inclusion": "2021-04-03",
+          "pedidos": [
+            {
+              "numero_pedido": "PED125",
+              "fecha_compra": "2021-04-05",
+              "fecha_entrega": "2021-04-10",
+              "total_factura": 80.20,
+              "productos": [
+                {
+                  "nombre_producto": "Gafas de Sol",
+                  "referencia": "GAF005",
+                  "precio": 30.00,
+                  "unidades": 1
+                },
+                {
+                  "nombre_producto": "Sombrero",
+                  "referencia": "SOM006",
+                  "precio": 50.00,
+                  "unidades": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Ana",
+          "apellidos": "López",
+          "telefono": "999999999",
+          "direccion": {
+            "calle": "Paseo de la Montaña 321",
+            "ciudad": "Ciudad D",
+            "codigo_postal": "54321",
+            "provincia": "Provincia Y"
+          },
+          "correo_electronico": "ana@example.com",
+          "fecha_inclusion": "2021-04-10",
+          "pedidos": [
+            {
+              "numero_pedido": "PED126",
+              "fecha_compra": "2021-04-15",
+              "fecha_entrega": "2021-04-20",
+              "total_factura": 200.00,
+              "productos": [
+                {
+                  "nombre_producto": "Vestido",
+                  "referencia": "VES007",
+                  "precio": 100.00,
+                  "unidades": 2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Q3": [
+        {
+          "nombre": "Laura",
+          "apellidos": "González",
+          "telefono": "666666666",
+          "direccion": {
+            "calle": "Avenida Central 456",
+            "ciudad": "Ciudad E",
+            "codigo_postal": "45678",
+            "provincia": "Provincia W"
+          },
+          "correo_electronico": "laura@example.com",
+          "fecha_inclusion": "2021-07-05",
+          "pedidos": [
+            {
+              "numero_pedido": "PED127",
+              "fecha_compra": "2021-07-10",
+              "fecha_entrega": "2021-07-15",
+              "total_factura": 120.50,
+              "productos": [
+                {
+                  "nombre_producto": "Camisa",
+                  "referencia": "CAM008",
+                  "precio": 50.00,
+                  "unidades": 2
+                },
+                {
+                  "nombre_producto": "Shorts",
+                  "referencia": "SHO009",
+                  "precio": 10.00,
+                  "unidades": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "David",
+          "apellidos": "Rodríguez",
+          "telefono": "777777777",
+          "direccion": {
+            "calle": "Calle de la Plaza 987",
+            "ciudad": "Ciudad F",
+            "codigo_postal": "98765",
+            "provincia": "Provincia V"
+          },
+          "correo_electronico": "david@example.com",
+          "fecha_inclusion": "2021-07-15",
+          "pedidos": [
+            {
+              "numero_pedido": "PED128",
+              "fecha_compra": "2021-07-20",
+              "fecha_entrega": "2021-07-25",
+              "total_factura": 90.00,
+              "productos": [
+                {
+                  "nombre_producto": "Zapatillas",
+                  "referencia": "ZAP010",
+                  "precio": 45.00,
+                  "unidades": 2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Q4": [
+        {
+          "nombre": "Elena",
+          "apellidos": "Sánchez",
+          "telefono": "888888888",
+          "direccion": {
+            "calle": "Calle de la Estrella 123",
+            "ciudad": "Ciudad G",
+            "codigo_postal": "12345",
+            "provincia": "Provincia U"
+          },
+          "correo_electronico": "elena@example.com",
+          "fecha_inclusion": "2021-10-03",
+          "pedidos": [
+            {
+              "numero_pedido": "PED129",
+              "fecha_compra": "2021-10-05",
+              "fecha_entrega": "2021-10-10",
+              "total_factura": 150.75,
+              "productos": [
+                {
+                  "nombre_producto": "Abrigo",
+                  "referencia": "ABR011",
+                  "precio": 100.00,
+                  "unidades": 1
+                },
+                {
+                  "nombre_producto": "Bufanda",
+                  "referencia": "BUF012",
+                  "precio": 25.00,
+                  "unidades": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Sofía",
+          "apellidos": "Martínez",
+          "telefono": "333333333",
+          "direccion": {
+            "calle": "Avenida de la Luna 789",
+            "ciudad": "Ciudad H",
+            "codigo_postal": "54321",
+            "provincia": "Provincia T"
+          },
+          "correo_electronico": "sofia@example.com",
+          "fecha_inclusion": "2021-10-10",
+          "pedidos": [
+            {
+              "numero_pedido": "PED130",
+              "fecha_compra": "2021-10-15",
+              "fecha_entrega": "2021-10-20",
+              "total_factura": 180.00,
+              "productos": [
+                {
+                  "nombre_producto": "Jersey",
+                  "referencia": "JER013",
+                  "precio": 60.00,
+                  "unidades": 2
+                },
+                {
+                  "nombre_producto": "Pantalón",
+                  "referencia": "PAN014",
+                  "precio": 30.00,
+                  "unidades": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2022": {
+        "Q1": [
+            {
+              "nombre": "Laura",
+              "apellidos": "García",
+              "telefono": "111111111",
+              "direccion": {
+                "calle": "Calle Principal 123",
+                "ciudad": "Ciudad A",
+                "codigo_postal": "12345",
+                "provincia": "Provincia X"
+              },
+              "correo_electronico": "laura@example.com",
+              "fecha_inclusion": "2024-01-05",
+              "pedidos": [
+                {
+                  "numero_pedido": "PED001",
+                  "fecha_compra": "2024-01-05",
+                  "fecha_entrega": "2024-01-10",
+                  "total_factura": 150.50,
+                  "productos": [
+                    {
+                      "nombre_producto": "Camiseta",
+                      "referencia": "CAM001",
+                      "precio": 25.00,
+                      "unidades": 3
+                    },
+                    {
+                      "nombre_producto": "Pantalón",
+                      "referencia": "PAN002",
+                      "precio": 35.00,
+                      "unidades": 2
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Carlos",
+              "apellidos": "Martínez",
+              "telefono": "222222222",
+              "direccion": {
+                "calle": "Avenida Principal 456",
+                "ciudad": "Ciudad B",
+                "codigo_postal": "54321",
+                "provincia": "Provincia Y"
+              },
+              "correo_electronico": "carlos@example.com",
+              "fecha_inclusion": "2024-01-10",
+              "pedidos": [
+                {
+                  "numero_pedido": "PED002",
+                  "fecha_compra": "2024-01-15",
+                  "fecha_entrega": "2024-01-20",
+                  "total_factura": 120.75,
+                  "productos": [
+                    {
+                      "nombre_producto": "Zapatos",
+                      "referencia": "ZAP003",
+                      "precio": 50.00,
+                      "unidades": 1
+                    },
+                    {
+                      "nombre_producto": "Bufanda",
+                      "referencia": "BUF004",
+                      "precio": 15.00,
+                      "unidades": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "Q2": [
+            {
+              "nombre": "Elena",
+              "apellidos": "López",
+              "telefono": "333333333",
+              "direccion": {
+                "calle": "Calle del Medio 789",
+                "ciudad": "Ciudad C",
+                "codigo_postal": "67890",
+                "provincia": "Provincia Z"
+              },
+              "correo_electronico": "elena@example.com",
+              "fecha_inclusion": "2024-04-03",
+              "pedidos": [
+                {
+                  "numero_pedido": "PED003",
+                  "fecha_compra": "2024-04-05",
+                  "fecha_entrega": "2024-04-10",
+                  "total_factura": 80.20,
+                  "productos": [
+                    {
+                      "nombre_producto": "Gafas de Sol",
+                      "referencia": "GAF005",
+                      "precio": 30.00,
+                      "unidades": 1
+                    },
+                    {
+                      "nombre_producto": "Sombrero",
+                      "referencia": "SOM006",
+                      "precio": 50.00,
+                      "unidades": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nombre": "Fernando",
+              "apellidos": "Rodríguez",
+              "telefono": "444444444",
+              "direccion": {
+                "calle": "Paseo de la Montaña 321",
+                "ciudad": "Ciudad D",
+                "codigo_postal": "54321",
+                "provincia": "Provincia Y"
+              },
+              "correo_electronico": "fernando@example.com",
+              "fecha_inclusion": "2024-04-10",
+              "pedidos": [
+                {
+                  "numero_pedido": "PED004",
+                  "fecha_compra": "2024-04-15",
+                  "fecha_entrega": "2024-04-20",
+                  "total_factura": 200.00,
+                  "productos": [
+                    {
+                      "nombre_producto": "Vestido",
+                      "referencia": "VES007",
+                      "precio": 100.00,
+                      "unidades": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "Q3": [
+            {
+                "nombre": "Laura",
+                "apellidos": "González",
+                "telefono": "666666666",
+                "direccion": {
+                  "calle": "Avenida Central 456",
+                  "ciudad": "Ciudad E",
+                  "codigo_postal": "45678",
+                  "provincia": "Provincia W"
+                },
+                "correo_electronico": "laura@example.com",
+                "fecha_inclusion": "2024-07-05",
+                "pedidos": [
+                  {
+                    "numero_pedido": "PED201",
+                    "fecha_compra": "2024-07-10",
+                    "fecha_entrega": "2024-07-15",
+                    "total_factura": 120.50,
+                    "productos": [
+                      {
+                        "nombre_producto": "Camisa",
+                        "referencia": "CAM018",
+                        "precio": 50.00,
+                        "unidades": 2
+                      },
+                      {
+                        "nombre_producto": "Shorts",
+                        "referencia": "SHO019",
+                        "precio": 10.00,
+                        "unidades": 4
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "nombre": "David",
+                "apellidos": "Rodríguez",
+                "telefono": "777777777",
+                "direccion": {
+                  "calle": "Calle de la Plaza 987",
+                  "ciudad": "Ciudad F",
+                  "codigo_postal": "98765",
+                  "provincia": "Provincia V"
+                },
+                "correo_electronico": "david@example.com",
+                "fecha_inclusion": "2024-07-15",
+                "pedidos": [
+                  {
+                    "numero_pedido": "PED202",
+                    "fecha_compra": "2024-07-20",
+                    "fecha_entrega": "2024-07-25",
+                    "total_factura": 90.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Zapatillas",
+                        "referencia": "ZAP020",
+                        "precio": 45.00,
+                        "unidades": 2
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+          "Q4": [
+            {
+                "nombre": "Elena",
+                "apellidos": "Sánchez",
+                "telefono": "888888888",
+                "direccion": {
+                  "calle": "Calle de la Estrella 123",
+                  "ciudad": "Ciudad G",
+                  "codigo_postal": "12345",
+                  "provincia": "Provincia U"
+                },
+                "correo_electronico": "elena@example.com",
+                "fecha_inclusion": "2024-10-03",
+                "pedidos": [
+                  {
+                    "numero_pedido": "PED203",
+                    "fecha_compra": "2024-10-05",
+                    "fecha_entrega": "2024-10-10",
+                    "total_factura": 150.75,
+                    "productos": [
+                      {
+                        "nombre_producto": "Abrigo",
+                        "referencia": "ABR021",
+                        "precio": 100.00,
+                        "unidades": 1
+                      },
+                      {
+                        "nombre_producto": "Bufanda",
+                        "referencia": "BUF022",
+                        "precio": 25.00,
+                        "unidades": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "nombre": "Sofía",
+                "apellidos": "Martínez",
+                "telefono": "333333333",
+                "direccion": {
+                  "calle": "Avenida de la Luna 789",
+                  "ciudad": "Ciudad H",
+                  "codigo_postal": "54321",
+                  "provincia": "Provincia T"
+                },
+                "correo_electronico": "sofia@example.com",
+                "fecha_inclusion": "2024-10-10",
+                "pedidos": [
+                  {
+                    "numero_pedido": "PED204",
+                    "fecha_compra": "2024-10-15",
+                    "fecha_entrega": "2024-10-20",
+                    "total_factura": 180.00,
+                    "productos": [
+                      {
+                        "nombre_producto": "Jersey",
+                        "referencia": "JER023",
+                        "precio": 60.00,
+                        "unidades": 2
+                      },
+                      {
+                        "nombre_producto": "Pantalón",
+                        "referencia": "PAN024",
+                        "precio": 30.00,
+                        "unidades": 3
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+    
